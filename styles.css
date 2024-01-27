@@ -11,6 +11,11 @@ header {
     text-align: center;
     padding: 20px;
 }
+nav p
+{
+    background-color: #333;
+    text-align: center;
+}
 
 nav ul {
     list-style-type:circle;
@@ -25,10 +30,11 @@ nav a {
     color: #fff;
     padding: 15px 20px;
     display: inline-block;
+    
 }
 
 section {
-    padding: 50px;
+    padding: 20px;
 }
 
 footer {
@@ -39,4 +45,9 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+#Academics
+{
+    padding-left: 20px;
+    padding-bottom: 10px;
 }
